@@ -89,7 +89,7 @@ const numeroMenor =()=>{
             La Palabra.. { palindroma}
           </button>
           <button type="button" onClick={numeroMenor}>
-            que numero es menor?: { palindroma}
+            que numero es menor?: {}
           </button>
       </header>
     </div>
